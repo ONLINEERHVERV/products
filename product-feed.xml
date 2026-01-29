@@ -1,0 +1,106 @@
+﻿<products>
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-FREELANCERE-OG-KONSULENTER</productid>
+    <productname>Freelancere og Konsulenter</productname>
+    <productdescription>I dette kursus lærer du, hvordan du bygger en professionel hjemmeside, der præsenterer dine ydelser klart, fremhæver dine cases og viser din personlige ekspertise. Du lærer også at bruge SEO, testimonials og branding til at tiltrække de rigtige kunder – helt uden bureau eller teknisk erfaring.</productdescription>
+    <price></price>
+    <oldprice>3999.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/6967806563ebe2eef787706f_Online_erhverv_freelancere.png</imageurl>
+    <producturl>https://www.onlineerhverv.dk/kursus/freelancere-og-konsulenter</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-HAANDVAERKERE-OG-FAGFOLK</productid>
+    <productname>Håndværkere og Fagfolk</productname>
+    <productdescription>I dette kursus lærer du, trin for trin, hvordan du opbygger en troværdig hjemmeside, der viser dine ydelser, fremhæver dine projekter og gør det nemt for kunder at kontakte dig. Du får styr på SEO, billeder og online markedsføring – uden teknisk erfaring.</productdescription>
+    <price></price>
+    <oldprice>3999.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/6967805795ac695de4aa68bb_Online_erhverv_haandvaerkere.png</imageurl>
+    <producturl>https://www.onlineerhverv.dk/kursus/handvaerkere-og-servicefag</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-RESTAURANTER-OG-CAFEER</productid>
+    <productname>Restauranter og Caféer</productname>
+    <productdescription>Dette kursus lærer dig at skabe en professionel hjemmeside, der viser din menu, stemning og åbningstider, og gør det nemt for gæster at reservere bord eller bestille mad online. Du lærer også, hvordan du bliver fundet på Google, opbygger et stærkt brand og får flere lokale kunder – helt uden bureau eller teknisk erfaring.</productdescription>
+    <price></price>
+    <oldprice>4999.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/6967805d4b218b2fd70bb298_Online_erhverv_restauranter.png</imageurl>
+    <producturl>https://www.onlineerhverv.dk/kursus/restauranter-og-cafeer</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-SERVICEVIRKSOMHEDER</productid>
+    <productname>Servicevirksomheder</productname>
+    <productdescription>Driver du en rådgivnings-, terapeut- eller konsulentvirksomhed? I dette kursus lærer du at bygge en hjemmeside, der viser dine ydelser klart, skaber tillid og får nye kunder til at kontakte dig – helt uden teknisk erfaring.</productdescription>
+    <price></price>
+    <oldprice>4999.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/69678049c542979e95f69eec_Online_erhverv_servicevirksomheder.png</imageurl>
+    <producturl>https://www.onlineerhverv.dk/kursus/servicevirksomheder</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-SKOENHED-OG-KLINIKKER</productid>
+    <productname>Skønhed og Klinikker</productname>
+    <productdescription>Er du behandler, frisør, kosmetolog eller driver en klinik? Så er dette kursus til dig. Vi viser dig, hvordan du laver en smuk og effektiv hjemmeside med booking, før/efter-billeder og servicebeskrivelser. Du lærer også SEO og sociale medier, så du bliver synlig online og får flere kunder i stolen.</productdescription>
+    <price></price>
+    <oldprice>4799.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/6967805086aee173acc1f4ca_Online_erhverv_klinikker.png</imageurl>
+    <producturl>https://www.onlineerhverv.dk/kursus/skonhed-og-velvaere</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-WEBSHOP-TIL-FYSISKE-PRODUKTER</productid>
+    <productname>Webshop til Fysiske Produkter</productname>
+    <productdescription>Sælger du fysiske produkter eller driver du en lille webshop? Så er dette kursus til dig. Vi viser dig, hvordan du bygger en professionel webshop med produkter, betalingsløsninger og fragt. Du lærer også SEO og annoncering, så du kan få flere besøgende og øge dit salg online.</productdescription>
+    <price></price>
+    <oldprice>5999.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/6967806bd313f1020b2ecf7d_Online_erhverv_webshops.png</imageurl>
+    <producturl>https://www.onlineerhverv.dk/kursus/webshop-til-fysiske-produkter</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+
+  <product>
+    <categoryname>Online kurser</categoryname>
+    <brand>Online Erhverv</brand>
+    <productid>OE-AI-FOR-SELVSTAENDIGE</productid>
+    <productname>AI for Selvstændige</productname>
+    <productdescription>Online kursus på dansk der gør AI brugbart i din hverdag: tekster, hjemmeside, billeder, video, drift, kunder og en fast ugentlig rutine, så det faktisk bliver brugt.</productdescription>
+    <price>7499.00</price>
+    <oldprice>9999.00</oldprice>
+    <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/696780754b218b2fd70bb8ba_Online_erhverv_AI_for_selvstaendige.png</imageurl>
+    <producturl>https://onlineerhverv.dk/ai-for-selvstaendige</producturl>
+    <shippingcost>0.00</shippingcost>
+    <stockstatus>in_stock</stockstatus>
+    <deliverytime>0</deliverytime>
+  </product>
+</products>
