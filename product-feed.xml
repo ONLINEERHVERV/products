@@ -95,8 +95,8 @@
     <productid>OE-AI-FOR-SELVSTAENDIGE</productid>
     <productname>AI for Selvstændige</productname>
     <productdescription>Online kursus på dansk der gør AI brugbart i din hverdag: tekster, hjemmeside, billeder, video, drift, kunder og en fast ugentlig rutine, så det faktisk bliver brugt.</productdescription>
-    <price>7499.00</price>
-    <oldprice>9999.00</oldprice>
+    <price>4799.00</price>
+    <oldprice>7499.00</oldprice>
     <imageurl>https://cdn.prod.website-files.com/66960fd6d176e460a6a342d3/696780754b218b2fd70bb8ba_Online_erhverv_AI_for_selvstaendige.png</imageurl>
     <producturl>https://www.onlineerhverv.dk/ai-for-selvstaendige</producturl>
     <shippingcost>0.00</shippingcost>
@@ -105,3 +105,4 @@
   </product>
 
 </products>
+
